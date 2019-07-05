@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  GeoTabParser.cpp
+d:\powerfull\geotabparser\geotabparser\geotabparser.cpp(127): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  GeoTabParser.vcxproj -> D:\POWERFULL\GeoTabParser\Debug\GeoTabParser.exe
